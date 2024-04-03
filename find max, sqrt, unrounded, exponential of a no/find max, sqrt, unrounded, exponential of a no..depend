@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709608364 source:d:\oops!\find max, sqrt, unrounded, exponential of a no.\main.cpp
+	<iostream>
+	<math.h>
+
